@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": 1001,
+      "productName": "iPhone ",
+      "productPrice": 87999,
+      "productDiscount": 20,
+      "productDate": "2021-03-17",
+      "productRating": 4,
+      "productImage": "assets/ProductImages/iphone.jpg"
+    },
+    {
+      "id": 1002,
+      "productName": "OPPO",
+      "productPrice": 34989,
+      "productDiscount": 18,
+      "productDate": "2020-05-17",
+      "productRating": 3.5,
+      "productImage": "assets/ProductImages/oppo.jpg"
+    },
+    {
+      "id": 1003,
+      "productName": "Redmi",
+      "productPrice": 89763,
+      "productDiscount": 30,
+      "productDate": "2019-04-14",
+      "productRating": 4,
+      "productImage": "assets/ProductImages/redmi.jpg"
+    },
+    {
+      "id": 1004,
+      "productName": "Samsung",
+      "productPrice": 65374,
+      "productDiscount": 19,
+      "productDate": "2019-04-14",
+      "productRating": 3,
+      "productImage": "assets/ProductImages/sam.jpg"
+    }
+  ]
